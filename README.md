@@ -16,4 +16,4 @@ My goal is to build a physical representation of this profile picture using a 3D
 
 ## Links
 
-[TODOs](TODO.md) | [Logbook](logbook.md)
+[TODOs](TODO.md) | [Logbook](logbook/logbook.md)
