@@ -1,8 +1,11 @@
-# Monday - 12/09/2022
-
+---
+layout: post
+title:  "LEDs and Jekyll"
+date:   2022-09-12 00:00:00 +1200
+---
 ## LEDs
 
-![WS2812B LEDs](../images/20220912/01_leds.png)
+![WS2812B LEDs]({{ site.baseurl }}/assets/images/leds.png)
 
 **Note:** These aren't actually my LEDs but show the kind I am working with.
 

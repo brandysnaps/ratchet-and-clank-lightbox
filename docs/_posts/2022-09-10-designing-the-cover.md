@@ -1,16 +1,19 @@
-# Saturday - 10/09/2022
-
+---
+layout: post
+title:  "Designing the cover"
+date:   2022-09-10 00:00:00 +1200
+---
 The first task in my mind was to get the front image of the lightbox designed. From what I have read, the best way to get a clean image for 3D printing is to create a SVG formatted file that I can import into it Tinkercad to generate a STL file that the 3D printer can use.
 
 This is the image I am taking inspiration from:
 
-![Profile picture](../images/20220910/01_reference.png)
+![Profile picture]({{ site.baseurl }}/assets/images/reference.png)
 
 I want to be able to shine light through all of areas my brother has hightlighted in pink, as well as the background behind Rathet.
 
 After spending some on Google, I was able to find the original image. I wanted to make sure the orientation and details matched as closely to the above image as possible:
 
-![Original image](../images/20220910/02_original.jpg)
+![Original image]({{ site.baseurl }}/assets/images/original.jpg)
 
 From here, I used Gimp to make the original set of image modifications.
 
@@ -20,13 +23,13 @@ From here, I used Gimp to make the original set of image modifications.
 
 The first step was to crop the image and remove the background colour:
 
-![Sized image](../images/20220910/03_sized.jpg)
+![Sized image]({{ site.baseurl }}/assets/images/sized.jpg)
 
 ### Highlight Details
 
 I then highlighted the key areas I want light to come through:
 
-![Accents image](../images/20220910/04_accents.jpg)
+![Accents image]({{ site.baseurl }}/assets/images/accents.jpg)
 
 I decided to highlight the rings on Ratchet's mask as well to give the light somewhere else to come through. All of the detail of his suit will be lost in the final product so I want it to have as much detail as possible. It's a slight deviation from my bother's profile picture but hopefully he won't mind 😅.
 
@@ -34,13 +37,13 @@ I decided to highlight the rings on Ratchet's mask as well to give the light som
 
 I want the spikes on Ratchet's shoulder to be illuminated, as well as the entire background. I needed to make sure there was a solid outline between the two so you can see the detail of the spikes:
 
-![Outlined image](../images/20220910/05_outline.jpg)
+![Outlined image]({{ site.baseurl }}/assets/images/outline.jpg)
 
 ## Remove Other Details
 
 The last step was to end up with an image showing only the areas I want the light to come through:
 
-![Final image](../images/20220910/06_final.jpg)
+![Final image]({{ site.baseurl }}/assets/images/final.jpg)
 
 This is a basic representation of what I hope the lightbox will look like. The green areas are where light will come through, the back is what will be 3D printed.
 
@@ -50,4 +53,4 @@ The edges on the JPEG image above are not very clean and if I want to scale this
 
 I wanted to add a border and "21" to the final image. This is what I ended up with:
 
-![Final SVG](../images/20220910/07_final_svg.png)
+![Final SVG]({{ site.baseurl }}/assets/images/final_svg.png)
