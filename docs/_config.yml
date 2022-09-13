@@ -18,18 +18,40 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ratchet & Clank Lightbox
-email: brandonfarrell3004@gmail.com
+############################
+# --- Required options --- #
+############################
+baseurl: "/ratchet-and-clank-lightbox" # the subpath of your site, e.g. /blog
 description: >- # this means to ignore newlines until "baseurl:"
   Building a 3D printed Ratchet & Clank lightbox for my brother's 21st birthday.
-baseurl: "/ratchet-and-clank-lightbox" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: brandysnaps
-
-# Build settings
-remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-feed
+remote_theme: daattali/beautiful-jekyll@5.0.0
+title: Ratchet & Clank Lightbox
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+# navbar-links:
+#   About Me: "aboutme"
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+#   Author's home: "https://deanattali.com"
+
+################
+# --- Logo --- #
+################
+avatar: "assets/images/final_svg.png"
+round-avatar: false
+
+#####################################
+# --- Footer social media links --- #
+#####################################
+social-network-links:
+  github: brandysnaps
+  linkedin: brandon-farrell
 
 # Exclude from processing.
 # The following items will not be processed, by default.
