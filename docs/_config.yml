@@ -21,13 +21,14 @@
 ############################
 # --- Required options --- #
 ############################
+author: Brandon Farrell
 baseurl: "/ratchet-and-clank-lightbox" # the subpath of your site, e.g. /blog
 description: >- # this means to ignore newlines until "baseurl:"
   Building a 3D printed Ratchet & Clank lightbox for my brother's 21st birthday.
 plugins:
   - jekyll-feed
 remote_theme: daattali/beautiful-jekyll@5.0.0
-title: Ratchet & Clank Lightbox
+title: R&C Lightbox
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###############################################
