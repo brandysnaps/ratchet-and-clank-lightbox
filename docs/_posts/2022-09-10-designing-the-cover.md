@@ -1,7 +1,9 @@
 ---
+date: 2022-09-10 00:00:00 +1200
 layout: post
-title:  "Designing the cover"
-date:   2022-09-10 00:00:00 +1200
+readtime: true
+tags: [Gimp, Inkscape]
+title: "Designing the cover"
 ---
 The first task in my mind was to get the front image of the lightbox designed. From what I have read, the best way to get a clean image for 3D printing is to create a SVG formatted file that I can import into it Tinkercad to generate a STL file that the 3D printer can use.
 

@@ -1,13 +1,12 @@
 ---
+cover-img: ["assets/images/leds.png" : "WS2812B LEDs"]
+date: 2022-09-12 00:00:00 +1200
 layout: post
-title:  "LEDs and Jekyll"
-date:   2022-09-12 00:00:00 +1200
+readtime: true
+tags: [LEDs, Jekyll]
+title: "LEDs and Jekyll"
 ---
 ## LEDs
-
-![WS2812B LEDs]({{ site.baseurl }}/assets/images/leds.png)
-
-**Note:** These aren't actually my LEDs but show the kind I am working with.
 
 The next relatively big unknown for me is how to control the WS2812B LED strip I have with a Raspberry Pi Pico. I have confirmed that the strip I have uses 5V for power which is a good start but I have no idea how many LEDs I can drive and at what power.
 
