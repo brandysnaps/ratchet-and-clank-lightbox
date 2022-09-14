@@ -34,12 +34,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
-# navbar-links:
-#   About Me: "aboutme"
-#   Resources:
-#     - Beautiful Jekyll: "https://beautifuljekyll.com"
-#     - Learn markdown: "https://www.markdowntutorial.com/"
-#   Author's home: "https://deanattali.com"
+navbar-links:
+  TODOs: "todo"
 
 ################
 # --- Logo --- #

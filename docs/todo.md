@@ -1,9 +1,22 @@
-# TODO
+---
+layout: page
+title: TODOs
+---
 
-- pre-commit
+- ~~Design Ratchet cover image~~
+- ~~Setup project website~~
 - Building my 3D printer
+- Tune the 3D printer
 - Designing the enclosure
 - Controlling WS2812B LEDs with the Pico
+
+## Nice to Haves
+
+- ~~Theme for website~~
+- Setting up Octoprint
+- Figure out Fritzing
+- QR code for the website
+- pre-commit
 
 ## Questions
 
