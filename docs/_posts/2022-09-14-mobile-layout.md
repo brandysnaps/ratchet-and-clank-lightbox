@@ -3,7 +3,7 @@ thumbnail-img: ["assets/images/micropython-pico-thumbnail.jpg"]
 date: 2022-09-14 06:00:00 +1200
 layout: post
 readtime: true
-tags: [Rasberry Pi, Pico, Raspberry Pi Pico]
+tags: [Rasberry Pi, Pico]
 title: "Mobile layout & Rasperry Pi Pico"
 ---
 
