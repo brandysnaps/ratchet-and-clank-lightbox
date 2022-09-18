@@ -1,9 +1,12 @@
 ---
 date: 2022-09-18 06:00:00 +1200
 layout: post
+readtime: true
 tags: [Tinkercad]
 title: "Measurements"
 ---
+
+![Maths is hard]({{ 'assets/images/maths.gif' | relative_url }})
 
 Oh man there were a lot of numbers to think about today... Subconciously, I knew that it would be very hard to figure out how big everything should be. There are also things in the project such as spacing between LEDS and the size of the bolts I have that cannot be easily changed. This means I am contrained in some ways with what I can do.
 
