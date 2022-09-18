@@ -68,4 +68,10 @@ Given the above:
 
 ![Cross section]({{ "assets/images/cross-section.png" | relative_url }})
 
+## Tinkercad
+
+I had a go at getting the SVG into Tinkercad. It was a bit of a battle because Tinkercad doesn't seem to deal with anything except paths (i.e. text and shapes don't work). Happy with the result:
+
+![Tinkercad cover]({{ "assets/images/tinkercad-cover.png" | relative_url }})
+
 [hexaleaf]: https://www.thingiverse.com/thing:5154193
