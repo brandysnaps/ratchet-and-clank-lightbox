@@ -14,7 +14,7 @@ title: TODOs
 ## Nice to Haves
 
 - ~~Theme for website~~
-- Setting up Octoprint
+- ~~Setting up Octoprint~~
 - Figure out Fritzing
 - QR code for the website
 - pre-commit
