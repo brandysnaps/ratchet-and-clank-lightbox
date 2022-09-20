@@ -2,6 +2,7 @@
 date: 2022-09-20 06:00:00 +1200
 layout: post
 readtime: true
+thumbnail-img: "assets/images/neopixels.gif"
 tags: [LEDs, Raspberry Pi, Pico]
 title: "NeoPixels"
 ---
@@ -60,5 +61,12 @@ Even at 50%, these things are bright.
 
 Reference: [Adafruit CircuitPython NeoPixel][circuit-python-neopixel]
 
+## Animations
+
+The next thing I want to look at is creating some animations based around the blue and pink colour sheme my brother likes.
+
+This looks like a good place to start: [CircuitPython LED Animations][animations]
+
 [adafruit]: https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/neopixel-leds
 [circuit-python-neopixel]: https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel
+[animations]: https://learn.adafruit.com/circuitpython-led-animations
