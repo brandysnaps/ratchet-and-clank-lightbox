@@ -1,7 +1,8 @@
 ---
-date: 2022-09-19 00:00:00 +1200
+date: 2022-09-19 06:00:00 +1200
 layout: post
 readtime: true
+tags: [3D printing, Octoprint]
 thumbnail-img: "assets/images/octoprint.png"
 title: Octoprint
 ---
