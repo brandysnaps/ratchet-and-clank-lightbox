@@ -20,4 +20,4 @@ Next, I put the pins in place and inserted the Pico onto a solderless breadboard
 
 Once I set up my soldering station and fan for ventilation, it took around 10 mins to get all the pins soldered. Here is the finished result:
 
-![After soldering]({{ 'assets/images/after-soldering.jpg' | relative_url }})
+![After soldering]({{ 'assets/images/after-soldering.png' | relative_url }})
