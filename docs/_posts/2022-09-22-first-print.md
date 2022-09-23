@@ -3,8 +3,8 @@ cover-img: "assets/images/calibration-cube-stl.jpg"
 date: 2022-09-22 06:00:00 +1200
 layout: post
 readtime: true
-tags: [3D printing]
-title: "First Print"
+tags: [3D printing, Octoprint]
+title: "First print"
 ---
 
 I am not counting the bed levelling print from yesterday 😉. The first "proper" thing I wanted to print is something to test how well my printer is printing. This is known as a benchmark or torture test print and the most common is Benchy:
@@ -37,13 +37,9 @@ I am very happy with this! There are a few issues:
 
 The cube is supposed to be 200 x 200 x 200 mm. Mine was not exactly those dimensions but very, very close so I don't think I need to perform any stepper motor adjustment. The worst offending axis is definitely the 'Z' axis but I think this is because of the Elephant's footing mentioned above.
 
-This is the timelapse I created of the print (video may not work in Chrome 😟):
-
-<video muted controls width="100%">
-    <source src="{{ site.baseurl }}/assets/videos/calibration-cube.mp4" type="video/mp4">
-</video>
-
 Octoprint wasn't able to create the timelapse for me. I assume this is because it's running on an old Raspberry Pi. I had to grab the photos from the Pi and create the timelapse manually. It doesn't seem as smooth as the examples I have seen so I will try and figure out what settings Octoprint uses to generate its timelapses.
+
+After thinking about this some more, I decided to repurpose my Raspberry Pi 4 that is running Home Assistant for this project. This will allow me to use Octoprint to its full potential.
 
 The next thing to work on is the Tinkercad model for the enclosure, as well as finishing off the cover. I may also print some printer upgrades while I am at it 😁. This video inspired me:
 
