@@ -5,11 +5,11 @@ title: TODOs
 
 - ~~Design Ratchet cover image~~
 - ~~Setup project website~~
-- Building my 3D printer
-- Tune the 3D printer
+- ~~Building my 3D printer~~
+- ~~Tune the 3D printer~~
 - Designing the enclosure
 - ~~Solder pins to Raspberry Pi Pico~~
-- Controlling WS2812B LEDs with the Pico
+- ~~Controlling WS2812B LEDs with the Pico~~
 
 ## Nice to Haves
 
