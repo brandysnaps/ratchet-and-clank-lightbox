@@ -4,7 +4,7 @@ date: 2022-09-24 06:00:00 +1200
 layout: post
 readtime: true
 tags: [3D printing, Octoprint, Cura]
-title: "What have I gotten into?"
+title: "What have I gotten myself into?"
 ---
 
 They say that you learn from your mistakes. I learned a lot today.
