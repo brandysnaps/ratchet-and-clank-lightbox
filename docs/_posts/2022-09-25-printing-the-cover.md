@@ -27,7 +27,7 @@ I waited a while to let the bed cool before very carefully removing the print. T
 
 I really want the finished gift to be black. I only have grey and orange filament at the moment so I went and bought some black spray paint from the local hardware store. Yet another thing to learn how to do.
 
-![Fresh prince]( {{ 'assets/images/fresh-prince.gif' | relative_url }} )
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/images/fresh-prince.gif"></div>
 
 Later in the evening, I spent more time trying to figure out the internals of the enclosure. There is a lot to think about and fit in so I sketched my thoughts out.
 
