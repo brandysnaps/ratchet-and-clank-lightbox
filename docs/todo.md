@@ -22,5 +22,4 @@ title: TODOs
 - ~~Setting up Octoprint~~
 - Figure out Fritzing
 - QR code for the website
-- pre-commit
-
+- ~~pre-commit~~
