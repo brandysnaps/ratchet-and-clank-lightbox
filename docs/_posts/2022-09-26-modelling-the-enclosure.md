@@ -1,5 +1,4 @@
 ---
-# cover-img: "assets/images/this-is-fine.jpg"
 date: 2022-09-26 06:00:00 +1200
 layout: post
 readtime: true
