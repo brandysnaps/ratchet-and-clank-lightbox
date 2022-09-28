@@ -1,4 +1,5 @@
 ---
+cover-img: assets/images/enclosure-cleaned.jpg
 date: 2022-09-27 06:00:00 +1200
 layout: post
 readtime: true

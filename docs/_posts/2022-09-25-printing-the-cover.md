@@ -1,4 +1,5 @@
 ---
+cover-img: assets/images/cover-finished.jpg
 date: 2022-09-25 07:00:00 +1200
 layout: post
 readtime: true
@@ -29,6 +30,8 @@ I really want the finished gift to be black. I only have grey and orange filamen
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/images/fresh-prince.gif"></div>
 
 Later in the evening, I spent more time trying to figure out the internals of the enclosure. There is a lot to think about and fit in so I sketched my thoughts out.
+
+![Sketches]()
 
 Images
 

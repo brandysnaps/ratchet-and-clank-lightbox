@@ -1,4 +1,5 @@
 ---
+cover-img: assets/images/lightbox-inspiration.jpg
 date: 2022-09-11 00:00:00 +1200
 layout: post
 readtime: true

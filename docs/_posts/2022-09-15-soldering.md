@@ -1,4 +1,5 @@
 ---
+cover-img: assets/images/after-soldering.png
 date: 2022-09-15 06:00:00 +1200
 layout: post
 readtime: true

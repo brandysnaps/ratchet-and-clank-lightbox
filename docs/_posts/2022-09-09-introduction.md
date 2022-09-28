@@ -1,4 +1,5 @@
 ---
+cover-img: assets/images/introduction.jpg
 date: 2022-09-09 00:00:00 +1200
 layout: post
 readtime: true

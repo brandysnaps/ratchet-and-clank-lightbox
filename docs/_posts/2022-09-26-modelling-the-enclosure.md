@@ -1,4 +1,5 @@
 ---
+cover-img: assets/images/enclosure-top-right.png
 date: 2022-09-26 06:00:00 +1200
 layout: post
 readtime: true

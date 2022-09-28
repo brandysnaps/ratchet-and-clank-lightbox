@@ -1,4 +1,5 @@
 ---
+cover-img: assets/images/spiderman-spray-paint.jpg
 date: 2022-09-28 06:00:00 +1200
 layout: post
 readtime: true

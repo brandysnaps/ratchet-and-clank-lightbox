@@ -1,4 +1,5 @@
 ---
+cover-img: assets/images/final_svg.png
 date: 2022-09-10 00:00:00 +1200
 layout: post
 readtime: true
