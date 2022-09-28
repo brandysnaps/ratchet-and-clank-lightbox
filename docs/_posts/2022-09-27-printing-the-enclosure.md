@@ -56,4 +56,14 @@ This is the design I came up with:
 
 The blue part is the original case bottom with the wall with the port removed. I will print two of the red part to hold the Pico in place with screws.
 
-Time to move on to tidying up the enclosure and checking to see if the cover fits...
+## Clean Up and Fit Test
+
+Time to move on to tidying up the enclosure and checking to see if the cover fits... After carefully cutting away the stringed sections, and the imperfections on the outside of the enclosure, this was the result:
+
+![Cleaned enclosure]( {{ 'assets/images/enclosure-cleaned.jpg' | relative_url }} )
+
+Now for the moment of truth, fitting the cover into the enclosure:
+
+![Fit test]( {{ 'assets/images/fit-test.jpg' | relative_url }} )
+
+Woohoo! 🥳 I am really pleased with how the cover fits. It is pretty snug but I am not confident it would hold in place for a long time. I wonder if the spray paint will add any thickness and make the fit any more snug. I will have to test this.
