@@ -29,7 +29,7 @@ At the 3 and a half hour mark, the infill pattern emerged:
 
 ![Enclosure infill]( {{ 'assets/images/enclosure-infill.jpg' | relative_url }} )
 
-Once the cylindrical holders for the LED strip started printing, I started seeing some mean stringing. I was not too concerned because this can be tidied up when the print is finised. I did keep a close eye on it though to make sure the strings would not obstruct the print nozzle:
+Once the cylindrical holders for the LED strip started printing, I started seeing some mean stringing. I was not too concerned because this can be tidied up when the print is finished. I did keep a close eye on it though to make sure the strings would not obstruct the print nozzle:
 
 ![Enclosure stringing]( {{ 'assets/images/enclosure-stringing.jpg' | relative_url }} )
 

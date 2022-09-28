@@ -21,7 +21,7 @@ I downloaded the STL, and sliced the print in Cura:
 
 Once I had changed the settings to use a 30% infill and 0.1 mm layer height as suggested by the model author, I downloaded the G-code.
 
-I hooked up my Raspberry Pi to the printer to see how Octoprint would cope. I was greeted with a lovely error message telling me that the Ender 3 firmware was not compatible with Octoprint and I would have to donwload a plugin to fix this (specifically the temperature readings). Once the plugin was downloaded, there was no more error message. I was then able to see the nozel and bed temperatures, as well as view the camera stream and move the print head using the controls in the Octoprint interface. Triggering the print through the interface was also possible.
+I hooked up my Raspberry Pi to the printer to see how Octoprint would cope. I was greeted with a lovely error message telling me that the Ender 3 firmware was not compatible with Octoprint and I would have to download a plugin to fix this (specifically the temperature readings). Once the plugin was downloaded, there was no more error message. I was then able to see the nozel and bed temperatures, as well as view the camera stream and move the print head using the controls in the Octoprint interface. Triggering the print through the interface was also possible.
 
 Things seemed to mostly behave however, I did notice a couple of times during the print, the printer would seem to freeze. Thankfully, after a few seconds, it seemed to carry on. This is the result of the first print:
 

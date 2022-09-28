@@ -12,7 +12,7 @@ This is the image I am taking inspiration from:
 
 ![Profile picture]({{ site.baseurl }}/assets/images/reference.png)
 
-I want to be able to shine light through all of areas my brother has hightlighted in pink, as well as the background behind Rathet.
+I want to be able to shine light through all of areas my brother has highlighted in pink, as well as the background behind Rathet.
 
 After spending some on Google, I was able to find the original image. I wanted to make sure the orientation and details matched as closely to the above image as possible:
 

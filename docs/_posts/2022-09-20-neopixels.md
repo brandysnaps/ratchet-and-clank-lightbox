@@ -7,7 +7,7 @@ tags: [LEDs, Raspberry Pi, Pico]
 title: "NeoPixels"
 ---
 
-My goal for today is to be able to control a stip of NeoPixel LEDs using the Raspberry Pi Pico.
+My goal for today is to be able to control a strip of NeoPixel LEDs using the Raspberry Pi Pico.
 
 I found the [NeoPixel LEDs][adafruit] post on Adafruit's website that seems to be exactly what I want to do.
 
@@ -51,7 +51,7 @@ while True:
     pixels.fill((255, 0, 0))
 ```
 
-I wasn't really expecting anything to happen but after saving the file, to my suprise:
+I wasn't really expecting anything to happen but after saving the file, to my surprise:
 
 ![My eyes!](https://c.tenor.com/uaLP3Jhnr-gAAAAC/my-eyes-burning-eyes.gif)
 
@@ -63,7 +63,7 @@ Reference: [Adafruit CircuitPython NeoPixel][circuit-python-neopixel]
 
 ## Animations
 
-The next thing I want to look at is creating some animations based around the blue and pink colour sheme my brother likes.
+The next thing I want to look at is creating some animations based around the blue and pink colour scheme my brother likes.
 
 This looks like a good place to start: [CircuitPython LED Animations][animations]
 

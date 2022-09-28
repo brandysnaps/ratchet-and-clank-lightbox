@@ -31,7 +31,7 @@ I kicked off the next print and immediately saw a problem. For some reason, the 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/images/why.gif"></div>
 
-Took me a while to figure out the cause of this one. I noticed an issue at the top of the stepper motor that feeds filament into the bowden tube. There were specs of filament on it and the filament itself had notches taken out of it from the teeth on the stepper motor. This was almost certainly caused by all of the extrusion and retraction of the filament from the disaster of the previous print. I checked the 'Maximum Retraction Count' setting in Cura and it was set to 100. That is WAY too high and it's no suprise I wrecked the filament. I reduced that setting to 5, started a new print and things were back to normal.
+Took me a while to figure out the cause of this one. I noticed an issue at the top of the stepper motor that feeds filament into the bowden tube. There were specs of filament on it and the filament itself had notches taken out of it from the teeth on the stepper motor. This was almost certainly caused by all of the extrusion and retraction of the filament from the disaster of the previous print. I checked the 'Maximum Retraction Count' setting in Cura and it was set to 100. That is WAY too high and it's no surprise I wrecked the filament. I reduced that setting to 5, started a new print and things were back to normal.
 
 ![I need a drink]({{ 'assets/images/i-need-a-drink.jpg' | relative_url }} )
 

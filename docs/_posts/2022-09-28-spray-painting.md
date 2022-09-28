@@ -26,7 +26,7 @@ I initially wanted to avoid soldering anything to the Pico itself because that i
 
 ![Pico with wires soldered]( {{ 'assets/images/pico-soldered.jpg' | relative_url }} )
 
-The data wire (green) was originally set to the botttom right pin shown in the picture above (GP0):
+The data wire (green) was originally set to the bottom right pin shown in the picture above (GP0):
 
 {% highlight python %}
 pixels = neopixel.NeoPixel(board.GP0, num_pixels, auto_write=False)

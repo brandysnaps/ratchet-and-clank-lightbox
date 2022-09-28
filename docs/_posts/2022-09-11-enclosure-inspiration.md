@@ -8,7 +8,7 @@ title: "Initial thoughts on the enclosure"
 ---
 Today was all about getting a better idea of what the enclosure will look like. I have an idea of what I want it to look like in my head but when it comes to putting that into millimeter measurements, that's a bit more challenging.
 
-I've decided to go with a 200 mm x 200 mm square. I think 30 mm think will work but I wont know until I am actually holding something in my hand.
+I've decided to go with a 200 mm x 200 mm square. I think 30 mm think will work but I won't know until I am actually holding something in my hand.
 
 ![Dimensions]({{ site.baseurl }}/assets/images/dimensions.png)
 

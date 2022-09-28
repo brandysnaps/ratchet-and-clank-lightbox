@@ -15,7 +15,7 @@ I decided to spend today printing some upgrades to my printer from the video I l
 
 ## Fan Guard
 
-This is a guard for the fan at the front-left of the printer. I was suprised to see that no cover was included for this as filament and other debris could easily fall into the hole. This is the upgrade I am printing to address the issue:
+This is a guard for the fan at the front-left of the printer. I was surprised to see that no cover was included for this as filament and other debris could easily fall into the hole. This is the upgrade I am printing to address the issue:
 
 ![Fan guard]({{ 'assets/images/fan-guard.png' | relative_url }} )
 

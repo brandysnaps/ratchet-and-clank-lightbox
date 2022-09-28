@@ -24234,7 +24234,7 @@ M104 S0
 ;SETTING_3 ion = creality_ender3\\n\\n[metadata]\\ntype = quality_changes\\nqual
 ;SETTING_3 ity_type = standard\\nintent_category = default\\nsetting_version = 2
 ;SETTING_3 0\\n\\n[values]\\nlayer_height = 0.2\\nmaterial_bed_temperature = 60\
-;SETTING_3 \nprint_sequence = one_at_a_time\\nspeed_slowdown_layers = 5\\n\\n", 
+;SETTING_3 \nprint_sequence = one_at_a_time\\nspeed_slowdown_layers = 5\\n\\n",
 ;SETTING_3 "extruder_quality": ["[general]\\nversion = 4\\nname = All3DP\\ndefin
 ;SETTING_3 ition = creality_ender3\\n\\n[metadata]\\ntype = quality_changes\\nqu
 ;SETTING_3 ality_type = standard\\nintent_category = default\\nposition = 0\\nse

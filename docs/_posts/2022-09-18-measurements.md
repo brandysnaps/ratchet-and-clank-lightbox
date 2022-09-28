@@ -11,7 +11,7 @@ Oh man there were a lot of numbers to think about today... Subconciously, I knew
 
 I started out thinking I would build a 200 x 200 x 30 mm box.
 
-One of my main sources of inspiration for measurements and constuction is the [Hexagonal Nanoleaf - Hexaleaf][hexaleaf] project on Thingiverse:
+One of my main sources of inspiration for measurements and construction is the [Hexagonal Nanoleaf - Hexaleaf][hexaleaf] project on Thingiverse:
 
 ![Hexaleafs]({{ site.baseurl }}/assets/images/hexaleafs.png)
 
@@ -27,7 +27,7 @@ I was interested to see that Hexaleaf's depend on friction to hold the cover ima
 
 ![Cover mount]({{ "assets/images/cover-mount.png" | relative_url }})
 
-Based on the original 200 x 200 mm dimensions I was targetting, and the 4 mm wall width of the Hexaleafs, I calculated the length of each internal wall to be 192 mm. Given the LEDs I have are spaced 16.2 mm apart, this means I can have approximately 12 LEDs per wall. This would equate to 48 LEDs in total, which I am not sure the Pico can drive.
+Based on the original 200 x 200 mm dimensions I was targeting, and the 4 mm wall width of the Hexaleafs, I calculated the length of each internal wall to be 192 mm. Given the LEDs I have are spaced 16.2 mm apart, this means I can have approximately 12 LEDs per wall. This would equate to 48 LEDs in total, which I am not sure the Pico can drive.
 
 <table>
   <tr>
