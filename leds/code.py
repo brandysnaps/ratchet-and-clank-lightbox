@@ -1,21 +1,17 @@
-# SPDX-FileCopyrightText: 2021 Kattni Rembor for Adafruit Industries
+# Pre-programmed LED strip animations for Ratchet & Clank lightbox
 #
-# SPDX-License-Identifier: MIT
+# Author: Brandon Farrell
+# 29/09/2022
 
-"""
-NeoPixel example for Pico. Turns the NeoPixels red.
-
-REQUIRED HARDWARE:
-* RGB NeoPixel LEDs connected to pin GP0.
-"""
 import board
 import neopixel
+from adafruit_led_animation.animation.blink import Blink
+from adafruit_led_animation.color import RED
 
-# Update this to match the number of NeoPixel LEDs connected to your board.
-num_pixels = 30
+pixel_brightness = 0.5
+pixel_num = 30
+pixel_pin = board.GP22
 
-pixels = neopixel.NeoPixel(board.GP0, num_pixels)
-pixels.brightness = 0.5
+pixels = neopixel.NeoPixel(pixel_pin, pixel_num, brightness=pixel_brightness, auto_write=False)
 
-# while True:
-#     pixels.fill((255, 0, 0))
+blink = Blink(pixels, speed=0.5, color=RED)
