@@ -31,8 +31,22 @@ I really want the finished gift to be black. I only have grey and orange filamen
 
 Later in the evening, I spent more time trying to figure out the internals of the enclosure. There is a lot to think about and fit in so I sketched my thoughts out.
 
-![Sketches]()
+The inside of the enclosure will be laid out roughly as follows:
 
-Images
+![Enclosure layout]( {{ 'assets/images/enclosure-layout.png' | relative_url }} )
+
+The LED strip will be attached to the internal wall of the enclosure in a clockwise direction, starting at the Raspberry Pi Pico. There will be nine LEDs on each face except for the bottom, where there will only be three. This should not be a problem as the majority of the bottom portion of the cover is solid, meaning no light will come through anyway.
+
+I have included two cylindrical LED strip supports on each side, similar to the Hexaleaf design:
+
+![Hexaleaf design]( {{ 'assets/images/hexaleaf-dimensions.png' | relative_url }} )
+
+Cross-section where there is an LED strip support:
+
+![Enclosure cross-section w/ support]( {{ 'assets/images/enclosure-dimensions-support.png' | relative_url }} )
+
+Cross-section where there is no LED strip support:
+
+![Enclosure cross-section w/o support]( {{ 'assets/images/enclosure-dimensions-no-support.png' | relative_url }} )
 
 Tomorrow I will need to try and get this modelled in Tinkercad.
