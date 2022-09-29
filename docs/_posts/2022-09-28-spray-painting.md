@@ -18,6 +18,8 @@ I started with the enclosure and tried to apply nice even strokes. I could tell 
 
 ![Cover sprayed]( {{ 'assets/images/cover-sprayed.jpg' | relative_url }} )
 
+![Enclosure sprayed]( {{ 'assets/images/enclosure-sprayed.jpg' | relative_url }} )
+
 I will leave both pieces to dry for 24 hours before trying to fit them together.
 
 ## Soldering the Wires to the Pico
