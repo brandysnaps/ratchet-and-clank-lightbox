@@ -1,8 +1,8 @@
 ---
+cover-img: "assets/images/neopixels.gif"
 date: 2022-09-20 06:00:00 +1200
 layout: post
 readtime: true
-thumbnail-img: "assets/images/neopixels.gif"
 tags: [LEDs, Raspberry Pi, Pico]
 title: "NeoPixels"
 ---
