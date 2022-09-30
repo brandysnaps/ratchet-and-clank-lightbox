@@ -11,11 +11,14 @@ from adafruit_led_animation.sequence import AnimationSequence
 from adafruit_led_animation.animation.chase import Chase
 from adafruit_led_animation.animation.colorcycle import ColorCycle
 from adafruit_led_animation.animation.comet import Comet
+from adafruit_led_animation.animation.customcolorchase import CustomColorChase
 from adafruit_led_animation.animation.pulse import Pulse
 from adafruit_led_animation.animation.solid import Solid
 from adafruit_led_animation.animation.sparkle import Sparkle
 from adafruit_led_animation.animation.SparklePulse import SparklePulse
 from adafruit_led_animation.color import CYAN
+
+CYCLE_TIME = 60
 
 # Define colors here
 COLOR_1 = CYAN
@@ -34,8 +37,14 @@ pixels = neopixel.NeoPixel(
 chase_1 = Chase(pixels, speed=0.1, color=COLOR_2, size=2, spacing=3)
 chase_2 = Chase(pixels, speed=0.1, color=COLOR_1, size=2, spacing=3)
 color_cycle = ColorCycle(pixels, speed=5.0, colors=[COLOR_1, COLOR_2])
-comet_1 = Comet(pixels, speed=0.075, color=COLOR_2, bounce=False)
-comet_2 = Comet(pixels, speed=0.075, color=COLOR_1, bounce=False)
+comet_1 = Comet(pixels, speed=0.075, color=COLOR_2, bounce=False, ring=True)
+comet_2 = Comet(pixels, speed=0.075, color=COLOR_1, bounce=False, ring=True)
+custom_color_chase_1 = CustomColorChase(
+    pixels, speed=CYCLE_TIME, colors=[COLOR_1, COLOR_2], size=15, spacing=0
+)
+custom_color_chase_2 = CustomColorChase(
+    pixels, speed=CYCLE_TIME, colors=[COLOR_2, COLOR_1], size=15, spacing=0
+)
 pulse_1 = Pulse(pixels, speed=0.1, color=COLOR_1, period=5)
 pulse_2 = Pulse(pixels, speed=0.1, color=COLOR_2, period=5)
 solid_1 = Solid(pixels, color=COLOR_1)
@@ -55,6 +64,8 @@ animations = AnimationSequence(
     color_cycle,
     comet_1,
     comet_2,
+    custom_color_chase_1,
+    custom_color_chase_2,
     pulse_1,
     pulse_2,
     solid_1,
@@ -63,7 +74,7 @@ animations = AnimationSequence(
     sparkle_2,
     sparkle_pulse_1,
     sparkle_pulse_2,
-    advance_interval=60,
+    advance_interval=CYCLE_TIME,
     auto_clear=True,
     random_order=True,
 )
