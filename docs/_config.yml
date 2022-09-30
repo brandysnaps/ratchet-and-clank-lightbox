@@ -36,7 +36,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 ###############################################
 navbar-links:
   Project stats: stats
-  TODOs: "todo"
 
 ################
 # --- Logo --- #
