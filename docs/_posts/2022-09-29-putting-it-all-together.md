@@ -1,4 +1,5 @@
 ---
+cover-img: assets/images/a-team.jpg
 date: 2022-09-29 06:00:00 +1300
 layout: post
 readtime: true

@@ -1,4 +1,5 @@
 ---
+cover-img: assets/images/matrix.gif
 date: 2022-09-30 06:00:00 +1300
 layout: post
 readtime: true
